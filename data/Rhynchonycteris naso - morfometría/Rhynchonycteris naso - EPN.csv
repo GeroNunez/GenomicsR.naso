@@ -1,0 +1,45 @@
+Codígo;Especie;Conservación ;Colectores;Fecha;País;Provincia;Cantón;Localidad;Latitud (GD);Longitud (GD);Altitud;Sexo;Formula dental;Fosetas basiesfenoideas;Cresta (linea temporal);Observaiones ;Edad;Longitud total (LT);Longitud cabeza cuerpo (LCC);Longitud de la cola (LC);Longitud de la pata (LP);Longitud de la oreja (LO);Trago;Antebrazo (AB);Calcáneo
+MEPN 304;Rhynchonycteris naso;Seco;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Macho;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;"Sucio con restos; Localidad erronea";Adulto;NA;46,16;NA;6,27;11,26;3,7;36,38;17,77
+MEPN 305;Rhynchonycteris naso;Seco;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Macho;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;Premaxila izquierda desprendida ;Adulto;NA;48,48;NA;6,1;11,4;3,11;36,71;21,04
+MEPN 312;Rhynchonycteris naso;Seco;L. Albuja y P. Mena;19/3/1985;Ecuador;Esmeraldas;Esmeraldas;Estero Taquiama 200 m al W del, parroquia Tabiaso, Río Tiaone;0,71667;-79,68333;150;Hembra;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;"Sucio con restos; Sin cordenadas y sin altitud";Adulto;NA;46,82;NA;NA;11,6;2,71;36,67;18,44
+MEPN 320;Rhynchonycteris naso;Seco y fluido;L. Albuja y F. Trujillo;14/1/1998;Ecuador;Pastaza;Arajuno;Río Acaro, parroquia Curaray;-1,39028;-77,41528;500;Hembra;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;"Sucio con restos ; sin cordenadas; cuerp en fluido, piel de la cara desgarrada a causa de la extracción";Adulto;58,28;44,83;13,45;6,34;16,13;3,99;39,56;19,13
+MEPN 303;Rhynchonycteris naso;Seco;L. Albuja y R. Timm;18/9/1983;Ecuador;Sucumbíos;Lago Agrio;Nueva Loja, 12 Km al Noreste;0,18333;-76,78333;350;Macho;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;Mandibula rota en dos partes;Adulto;NA;46,4;NA;6,05;12,91;2,14;35,58;24,41
+MEPN 310;Rhynchonycteris naso;Seco;L. Albuja y R. Timm;26/10/1983;Ecuador;Sucumbíos;Cuyabeno;Zancudo;0,58333;-75,48333;200;Macho;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;"Maxila y mandibula rotas, sucios con dermestes; localidad erronea";Adulto;64,02;45,83;18,19;5,96;11,99;2,87;36,28;17,39
+MEPN 311;Rhynchonycteris naso;Seco;Hnos. Olallu;27/4/1935;Ecuador;Orellana;Loreto;Ávila;-0,63333;-77,41667;750;Hembra;I: 2/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;Mandibula rota en dos partes;Adulto;59,32;45,41;13,91;NA;NA;NA;35,74;16,36
+MEPN 7115;Rhynchonycteris naso;Seco;L. Albuja y F. Trujillo;24/4/1999;Ecuador;Pastaza;Arajuno;Río Villano, pozo petrolero Villano;-1,47083;-77,43333;400;Macho;I: 1/3 C:1/1 P: 2/2 M: 3/3 x2;Ausentes;NA;"Mandibula rota en dos partes; Sin cordenadas y sin altitud";Adulto;50,71;42,34;8,37;5,48;NA;2,55;34,78;16,81
+MEPN 306;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Macho;I: 1;NA;NA;Boca cerrada;Juvenil ;47,03;36,15;10,88;5,96;13,59;3,74;36,3;18,27
+MEPN 307;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Hembra;I: 2 ;NA;NA;Boca cerrada;Juvenil ;40,54;31,27;9,27;5,87;12,8;3,85;25,74;11,66
+MEPN 308;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Hembra;I: 2;NA;NA;Boca cerrada;Adulto;51,66;39,07;12,59;6,07;14,08;4,34;35,27;19,07
+MEPN 309;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Macho;I: 2;NA;NA;Boca cerrada;Adulto;52,43;39,03;13,4;5,86;13,55;3,66;35,5;19,39
+MEPN 3851;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;28/9/1983;Ecuador;Sucumbíos;Putumayo;Laguna Grande, Río Cuyabeno, R. P. F. Cuyabeno;-0,01667;-76,18333;250;Macho;I: 1;NA;NA;Boca cerrada;Adulto;54,46;40,07;14,39;6,27;14,16;3,93;37,51;19,71
+MEPN 314;Rhynchonycteris naso;Fluido;J. Olalla;1955;Ecuador;Napo;Archidona;Cerro Guataraco;-0,68333;-77,55;1500-1800;Hembra;I: 1;NA;NA;Murcielago con cría;Adulto;54,57;41,35;13,22;5,86;14,83;3,83;37,53;18,66
+MEPN 315;Rhynchonycteris naso;Fluido;J. Olalla;1955;Ecuador;Napo;Archidona;Cerro Guataraco;-0,68333;-77,55;1500-1800;Macho;I: 1;NA;NA;"Sexo mal identificado; boca cerrada";Adulto;50,18;40,14;10,04;6,31;13,64;4,19;35,94;18,89
+MEPN 316;Rhynchonycteris naso;Fluido;L. Albuja;21/9/1984;Ecuador;Esmeraldas;Eloy Alfaro;San Miguel 3 Km al sur;0,74639;-78,91889;150;Macho;I: 1;NA;NA;Boca cerrada;Adulto;51,85;38,51;13,34;5,79;12,37;3,47;35,46;18,03
+MEPN 317;Rhynchonycteris naso;Fluido;L. Albuja;19/3/1985;Ecuador;Esmeraldas;Esmeraldas;Estero Taquiama 200 m al W del, parroquia Tabiaso, Río Tiaone;0,71667;-79,68333;100;Macho;I: 2;NA;NA;Boca cerrada Formula dental dos en Esmeraldas ??????;Adulto;47,47;36,66;10,81;5,71;13,46;3,45;35,04;16,84
+MEPN 318;Rhynchonycteris naso;Fluido;L. Albuja y W. Pozo;10/10/1991;Ecuador;Orellana;Aguarico;Iripari (Imuya), R.P.F.Cuyabeno;-0,56;-75,49;200;Hembra;I: 1;NA;NA;"Hembra con cría parida; Cría con tres icisivos superiores???";Adulto;57,94;44,04;13,9;5,69;15,42;4,22;40,1;19,11
+MEPN 319;Rhynchonycteris naso;Fluido;L. Albuja y F. Trujillo;8/7/1997;Ecuador;Pastaza;Pastaza;Chuyayacu, Parroquia El Triunfo;-1,47444;-77,65056;700;Hembra;I: 3;NA;NA;Boca cerrada;Adulto;47,87;36,37;11,5;5,39;14,17;3,09;32,62;17,05
+MEPN 321;Rhynchonycteris naso;Fluido;L. Albuja y F. Trujillo;17/1/1998;Ecuador;Pastaza;Arajuno;Río Acaro, parroquia Curaray;-1,39028;-77,41528;500;Macho;I: 2;NA;NA;"Patas, membrana caudal (Uropatagio) y menbrana alar (Plagiopatagio y dactilopatagio) destrosadas; boca cerrada ";Indeterminado;NA;32,49;NA;5,45;10,81;3,1;20,73;NA
+MEPN 5564;Rhynchonycteris naso;Fluido;L. Albuja y R. Timm;20/11/1983;Ecuador;Orellana;Loreto;San José de Payamino;-0,5;-77,31667;300;Macho;I: 3;NA;NA;Boca cerrada;Subadulto;52,67;38,86;13,81;5,69;13,87;3,53;34,17;17,18
+MEPN 7043;Rhynchonycteris naso;Fluido;L. Albuja y F. Trujillo;29/10/1998;Ecuador;Pastaza;Arajuno;Pozo Villano;-1,5;-77,45;450;Hembra;I: 2;NA;NA;Membranas alares y cara deteriorados;Juvenil;54,31;42,35;11,96;6,12;14,64;3,46;35,78;17,61
+MEPN 10474;Rhynchonycteris naso;Fluido;L. Albuja y A. Arguero;13/6/2007;Ecuador;Orellana;Aguarico;Guiyero, Laguna Waorani;-0,6222;-76,49387;;Hembra;I: 1;NA;NA;Boca cerrada;Adulto;51,2;38,44;12,76;6,47;14,66;3,75;37,1;18,97
+MEPN 10475;Rhynchonycteris naso;Fluido;L. Albuja y A. Arguero;13/6/2007;Ecuador;Orellana;Aguarico;Guiyero, Laguna Waorani;-0,6222;-76,49387;;Macho;I: 1;NA;NA;Boca cerrada;Adulto;NA;48,66;NA;6,11;11,15;2,35;36,69;20,17
+MEPN 11882;Rhynchonycteris naso;Fluido;J. Gerra;25/11/2010;Ecuador;Orellana;Aguarico;Río Tiputini, Estación Biológica U. San Francisco;-0,63833;-76,14889;235;Macho;I: 1;NA;NA;Boca cerrada;Adulto;56,42;42,42;14;5,74;12,51;3,92;38,6;19,71
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
